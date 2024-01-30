@@ -1,7 +1,7 @@
 Alexei Panov
 =============================
 
-🐹 Ember.js developer
+<img src="https://emberjs.com/images/brand/ember-e-circle-icon-4c.svg"/> Ember.js developer
 ------------------
 
 *   ✉️  Contact me: [a8panov@gmail.com](mailto:a8panov@gmail.com)
