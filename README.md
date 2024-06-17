@@ -6,7 +6,7 @@ Alexei Panov
 
 Currently working 🚀 on [Scout - all your dog walking and pet care business needs in one software](http://www.scoutforpets.com/)
 
-Contact me via [Slack](https://app.slack.com/client/T06L5JAVA2K/D06LL269C4T)
+Contact me via [Slack](https://app.slack.com/client/T06L5JAVA2K/D06LL269C4T) or via [Discord](https://discordapp.com/users/a8panov)
 
 Email me: [a8panov@gmail.com](mailto:a8panov@gmail.com)
 
