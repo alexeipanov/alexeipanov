@@ -2,7 +2,7 @@ Alexei Panov
 =============================
 
 Full-stack developer (non-JS only). 
-Toxic perfectionist, anti-vibe-coder.
+Strong perfectionist, clean up the mess vibe-coders leave behind.
 ------------------
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?logo=ruby&logoColor=%23CC342D&labelColor=white
 )
