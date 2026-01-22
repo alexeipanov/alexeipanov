@@ -38,4 +38,4 @@ Strong perfectionist, clean up the mess vibe-coders leave behind.
 
 Currently working 🚀 on [Pomogalochka - Schedule and appointment manager Telegram MiniApp](https://pomogalochka.com/)
 
-Contact me via [Discord](https://discordapp.com/users/a8panov), or [Telegram](https://t.me/a8panov), or by email: [a8panov@gmail.com](mailto:a8panov@gmail.com)
+Contact me via [Telegram](https://t.me/a8panov), or by email: [a8panov@gmail.com](mailto:a8panov@gmail.com)
