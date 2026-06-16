@@ -1,8 +1,7 @@
 Alexei Panov
 =============================
 
-Full-stack developer (non-JS only). 
-Strong perfectionist, clean up the mess vibe-coders leave behind.
+Full-stack developer
 ------------------
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?logo=ruby&logoColor=%23CC342D&labelColor=white
 )
