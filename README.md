@@ -35,6 +35,6 @@ Full-stack developer
 )
 
 
-Currently working 🚀 on [Pomogalochka - Schedule and appointment manager Telegram MiniApp](https://pomogalochka.com/)
+Currently working 🚀 on [Find the best time to meet across time zones. Perfect Clock shows local time, working hours, and events on one timeline.](https://perfectclock.cc)
 
 Contact me via [Telegram](https://t.me/a8panov), or by email: [a8panov@gmail.com](mailto:a8panov@gmail.com)
